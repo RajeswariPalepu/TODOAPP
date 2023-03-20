@@ -1,0 +1,353 @@
+.App {
+  text-align: center;
+}
+.p{
+  position: relative;
+  left: -77px !important;
+}
+.cancel{
+  position: relative;
+  left: 307px !important;
+}
+.p1{
+  position: relative;
+  left: -63px !important;
+}
+.me-2{
+  position: relative;
+  bottom: -54px;
+  left: 344px;
+}
+.p2{
+  position: relative;
+  left: -82px !important;
+}
+.addtask:hover{
+  position: relative;
+  left:100px !important;
+  color: rgb(255, 127, 127);
+}
+.content-right {
+float: right !important;
+}
+.label1 {
+  position: relative;
+    left: -260px !important;
+    margin-bottom: 6px !important;
+    margin-top: 25px !important;
+}
+/* .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input
+ {
+position: static!important;
+} */
+/* .popup{
+ 
+  position: relative;
+  left: 460px !important;
+  top: -145px !important;
+    
+} */
+/* .css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+  position: relative;
+  left: 232px!important;
+} */
+.statuscal{
+  width: 81px;
+  width: 106px;
+    height: 30px;
+    margin-top: 15px;
+  /* background-color: red; */
+}
+.profile{
+  width: 50px !important;
+  position: relative !important;
+  right: -1560px !important;
+  border-radius: 150px !important;
+ }
+ .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+  font-size: 20px!important;
+ }
+ .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root.Mui-selected {
+  font-size: 12px!important;
+ }
+ .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+  font-size: 15px!important;
+  position: static;
+left:-90px;
+bottom: -10px;
+}
+.delete{
+  display: flex;
+}
+.delbtn{
+  width: 7px;
+    position: relative;
+    right: -60px;
+    top: 50px;
+}
+.css-rw3qn6-MuiTypography-root{
+  font-size: 2rem;
+    display: flex;
+}
+.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root {
+  font-size: 1rem!important;
+}
+.css-raiqh1-MuiTypography-root-MuiDayPicker-weekDayLabel {
+  font-size: 1rem!important;
+}
+.error{
+  position: relative;
+  left: -134px;
+  color: red;
+  margin-top: 9px;
+}
+.Success{
+  background-color: green;
+}
+.Danger{
+  background-color: red;
+}
+.modal-body {
+  position: relative;
+  padding: 19px !important;
+}
+ .carddwn{
+  margin-top: 200px!important;
+ }
+ /* .submit1:hover{
+  background-color:rgb(234, 227, 227) !important;
+ } */
+ .hover1:hover{
+background-color:rgb(234, 227, 227) !important;
+ }
+ .status{
+  background-color: rgb(234, 227, 227) !important;
+ }
+ .status2{
+  position: relative;
+  left: 63px !important;
+  padding: 235px !important;
+  padding-top: 8px !important;
+  padding-left: 13px !important;
+ }
+
+ .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+font-size: 19px!important;
+ }
+.css-46bh2p-MuiCardContent-root:last-child {
+  position: relative;
+  left: -1px !important;
+}
+.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root {
+font-size: 30px;
+}
+ .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+font-size: 20px!important;
+ }
+ .css-1x51dt5-MuiInputBase-input-MuiInput-input {
+  font-size: 20px!important;
+ }
+ .css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  margin-bottom: 30px!important;
+  width: 100%!important;
+ }
+ .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  width: 100%!important;
+  margin-bottom: 30px!important;
+ }
+ /* .css-1ri6ub7-MuiPaper-root-MuiCard-root{
+  margin-right: 10px !important;
+  margin-bottom: 20px !important;
+  width: 350px !important;
+  position: relative;
+  left: 415px;
+ } */
+.cardssss {
+ width: 350px !important;
+    position: relative;
+    left: 65px;
+    margin-right: 10px !important;
+  margin-bottom: 20px !important;
+}
+.regbtnH{
+  margin-right: 10px!important;
+}
+.homenav{
+  display: flex;
+  justify-content: end;
+  position: relative;
+  top:12px;
+}
+ 
+ .css-1c2i806-MuiFormLabel-root-MuiInputLabel-root {
+  font-size: 20px!important;
+ }
+ 
+ .css-1knaqv7-MuiButtonBase-root-MuiButton-root{
+  width: 147px;
+  background-color: rgb(172, 139, 148) !important;
+  font-size: 15px!important;
+}
+.form-control-primary {
+  margin: 10px;
+  opacity: 0.2;
+  border-radius: 2px;
+}
+/* .dots{
+  position: relative;
+  left: 175px;
+} */
+.css-1t6e9jv-MuiCardActions-root{
+  margin-left: 10px !important;
+  margin-bottom: 10px !important;
+  position: relative;
+  left: 68px !important ;
+}
+ .d-flex1{
+  display: flex;
+ }
+ .space{
+  position: relative;
+    margin-right: 57px;
+ }
+ .space1{
+  position: relative;
+  top: -23px;
+}
+.modal-dialog {
+  width: 299px !important;
+  margin: 10px !important;
+}
+.caps{
+  text-transform: uppercase;
+}
+/* .modal-body {
+  position: relative;
+  padding: 48px !important;
+  padding-left: 50px;
+} */
+/* .regpopup{
+  position: relative;
+  left: 485px !important;
+} */
+/* .css-46bh2p-MuiCardContent-root:last-child {
+  padding: 0px !important;
+  height: 60px;
+ } */
+ nav{
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+.logout{
+  position: relative;
+  left: -5px;
+}
+.backgroundimg{
+  background-image: url('./Component/Charts/Image/homeImage.jpg');
+  max-width: 100%;
+  height: 540px;
+}
+ .css-h93ljk-MuiTypography-root{
+  position: relative;
+  left: -123px !important;
+  /* float: left; */
+  
+ }
+.middle{
+  position: relative;
+    left: 300px !important;
+}
+.btn-lg{
+  margin-bottom: -97px !important;
+    margin-top: -31px !important;
+    margin-left: -266px !important;
+}
+.stpswd{
+  position: relative;
+    left: -233px !important;
+    margin-bottom: 6px !important;
+    margin-top: 28px !important;
+}
+.cnfmpswd {
+  position: relative;
+    left:-217px !important;
+    margin-bottom: 6px !important;
+    margin-top: 28px !important;
+}
+.frgtpswd{
+  margin-left: -440px !important;
+  position: relative !important;
+  bottom: -13px !important;
+}
+.Nwpswd{
+  position: relative;
+    left: -230px !important;
+    margin-bottom: 6px !important;
+    margin-top: 28px !important;
+}
+.pswd{
+  position: relative;
+    left: -245px !important;
+    margin-bottom: 6px !important;
+    margin-top: 28px !important;
+}
+.Reg{
+  position: relative;
+    left: -241px !important;
+    margin-bottom: 6px !important;
+    margin-top: 30px !important;
+}
+.form-control {
+  width: 50% !important;
+}
+.Form1{
+  position: relative;
+    left: 132px !important;
+    top: -4px !important;
+}
+.modal-footer {
+  padding: 6px !important;
+  text-align: center !important;
+  border-top: 1px solid #e5e5e5 !important;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.backDropClass{
+  opacity: 0.5;
+}
+.logoutClass{
+  left: 40% !important;
+  top: 30% !important;
+}
